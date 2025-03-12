@@ -2,7 +2,7 @@
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://youtu.be/RHGYx921Q9I?si=CK_na-EAo2YP7EBa)
+- ### [YouTube: How to connect a machine with Remote Desktop](https://youtu.be/RHGYx921Q9I?si=CK_na-EAo2YP7EBa)
 
 <h2>Environments and Technologies Used</h2>
 
