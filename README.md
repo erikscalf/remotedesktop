@@ -34,9 +34,9 @@
 <br \>
 <br \>
 
-- Paste the IP address of the machine you want to connect to into the 'Computer' box
+- Paste the IP address of the machine you want to connect to into the 'Computer' box, then click the 'Connect' button
   
-![enterip](https://github.com/user-attachments/assets/1584c813-0018-4807-9d72-0e129f4c6f88)
+![ipenter](https://github.com/user-attachments/assets/e9b27447-6e18-4eb0-8003-7dbb8fde365e)
 
 
 <h1></h1>
@@ -47,6 +47,11 @@
 
 ![usernamepw](https://github.com/user-attachments/assets/22291f56-a631-4e6d-a368-26424285fef7)
 
+<h1></h1>
+<br \>
+<br \>
 
+- Now you should be logged into the VM you chose
 
-  ![remote](https://github.com/user-attachments/assets/8fda030d-27b0-468f-81fe-828725323034)
+![login](https://github.com/user-attachments/assets/e075c795-4440-4f3b-927c-c7cd6eabc66b)
+
